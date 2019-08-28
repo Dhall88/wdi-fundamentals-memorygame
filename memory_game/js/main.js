@@ -62,9 +62,5 @@ function createBoard(){
 		document.getElementById('game-board').appendChild(cardElement);
 		
 	}
-
+}
 	createBoard();
-
-
-
-
